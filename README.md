@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning C++
+###- 🔭 I’m currently working on learning C++
 - 🌱 I’m currently learning C++ from www.learncpp.com
 - 👯 I’m looking to collaborate on about anything that I can contribute to with C++
 - 🤔 I’m looking for help with ...
