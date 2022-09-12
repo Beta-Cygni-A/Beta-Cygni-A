@@ -7,6 +7,3 @@
 - 📫 How to reach me: Here on Github
 - ⚡ Fun fact: I use the following software for programming: Neovim, Cygwin (for GDB and g++), Cmake, and git
 -    Sometimes also use Notepad++, VSCodium, TEA, and Godot
--    Love working from cmd line
--    Dream C++ project is VR File Manager for PC
-
