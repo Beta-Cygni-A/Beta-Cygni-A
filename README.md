@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with making programs in C++
 - 📫 How to reach me: Here on Github
 - ⚡ Fun fact: I use the following software for programming: Neovim, Cygwin (for GDB and g++), Cmake, and git
--    Sometimes also use Notepad++, VSCodium, TEA, and Godot
+-    Sometimes also use Notepad++, VSCodium, TEA, Godot, and Gimp 
